@@ -20,6 +20,8 @@ Arquivo: `632.py`
 
 ![Solução Exercício 632](./Imagens/632.png)
 
+Link para submissão: [LeetCode - 632](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/submissions/1806270992)
+
 ---
 
 ### Exercício 857: Minimum Cost to Hire K Workers
@@ -28,6 +30,19 @@ Neste exercício, o objetivo é encontrar o custo mínimo para contratar K traba
 Arquivo: `857.py`
 
 ![Solução Exercício 857](./Imagens/857.png)
+
+Link para submissão: [LeetCode - 857](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/submissions/1806270975)
+
+---
+
+### Exercício 435: Erase Overlapping Intervals
+Neste exercício, o objetivo é encontrar o número mínimo de intervalos a serem removidos para que os restantes não se sobreponham. A solução utiliza uma abordagem gananciosa para selecionar os intervalos que não se sobrepõem.
+
+Arquivo: `435.py`
+
+![Solução Exercício 435](./Imagens/435.png)
+
+Link para submissão: [LeetCode - 435](https://leetcode.com/problems/non-overlapping-intervals/submissions/1806269063)
 
 ---
 
