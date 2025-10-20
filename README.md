@@ -48,8 +48,6 @@ Link para submissão: [LeetCode - 435](https://leetcode.com/problems/non-overlap
 
 ## Vídeos Explicativos
 
-<iframe src="https://unbbr-my.sharepoint.com/personal/211041221_aluno_unb_br/_layouts/15/embed.aspx?UniqueId=d197c8b8-68db-4f90-8a62-b4872d69f4d6&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="PA-20251019_201822-Gravação de Reunião.mp4"></iframe>
-
 Link do vídeo no OneDrive: [Vídeo Explicativo](https://unbbr-my.sharepoint.com/:v:/g/personal/211041221_aluno_unb_br/EbjIl9HbaJBPimK0hy1p9NYB80Sy6JicYHNFZzz8Ubs5_w?e=xb4XZa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Linguagem Utilizada
